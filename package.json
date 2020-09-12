@@ -2,7 +2,7 @@
     "dependencies": {
         "cheerio": "^1.0.0-rc.3",
         "jquery": "^3.4.1",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^2.6.1",
         "puppeteer": "^1.18.0"
     }
 }
